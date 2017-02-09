@@ -1,0 +1,25 @@
+{
+  "name": "pubsub",
+  "version": "0.0.1",
+  "description": "Pubsub abstractions",
+  "main": "src/pubsub.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mightyguava/pubsub.git"
+  },
+  "keywords": [
+    "pubsub"
+  ],
+  "author": "Yunchi Luo <mightyguava@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mightyguava/pubsub/issues"
+  },
+  "homepage": "https://github.com/mightyguava/pubsub#readme",
+  "dependencies": {
+    "co": "^4.6.0"
+  }
+}
